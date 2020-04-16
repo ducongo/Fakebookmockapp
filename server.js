@@ -1,7 +1,5 @@
 /*
-***************************************************************
-(c) Louis D. Nel 2018
-***************************************************************
+
 
 Basic node.js express-based server with middleware,
 SQLite database, and CLIENT-SIDE rendering (server just serves JSON data).
